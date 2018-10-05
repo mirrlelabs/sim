@@ -15,7 +15,9 @@ cat /var/logs/apache2/project.log | sim
   -S | --subject "filtered logs"              # the title
   -H | --history 10                           # shows the last 10 entries (default 10, max 200)
   -s | --search "foo bar"                     # search a "string" by subject and printout url, combine with -o
+```
 
+``` 
 Future Params: 
   -c | --config "/path/to/config.file"        # later: we can setup some standard settings as a default tbd, read from /etc/sim.conf or ~/.sim.cfg (yaml/ini/toml)...
   -o | --output [yaml|json|toml|short|plain]  # later: output format
