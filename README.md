@@ -1,7 +1,7 @@
 # sim
 sim | simple text importer aka simsalabim
 
-## Parameter Übersicht
+## Parameter Overview
 
 ``` 
 cat /var/logs/apache2/project.log | sim 
