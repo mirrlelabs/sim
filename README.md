@@ -29,8 +29,8 @@ Future Params:
 
 ```
 Title: "text text text"
-Url: https://code.mirrle.com/577c4bba7d6b551b70e76d95accc158c
-Raw: https://code.mirrle.com/577c4bba7d6b551b70e76d95accc158c/raw
+Url: https://url.yourdomain.com/577c4bba7d6b551b70e76d95accc158c
+Raw: https://url.yourdomain.com/577c4bba7d6b551b70e76d95accc158c/raw
 Theme: night
 Lines: 4238
 Language: python
