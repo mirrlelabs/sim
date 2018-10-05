@@ -1,5 +1,5 @@
 # sim
-sim | simple text importer aka simsalabim
+sim | simple text importer aka simsalabim, https://sim.do
 
 ## Parameter Overview
 
