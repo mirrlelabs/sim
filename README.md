@@ -17,8 +17,9 @@ cat /var/logs/apache2/project.log | sim
   -s | --search "foo bar"                     # search a "string" by subject and printout url, combine with -o
 ```
 
+## Future Parameters 
+
 ``` 
-Future Params: 
   -c | --config "/path/to/config.file"        # later: we can setup some standard settings as a default tbd, read from /etc/sim.conf or ~/.sim.cfg (yaml/ini/toml)...
   -o | --output [yaml|json|toml|short|plain]  # later: output format
   -C | --crypt <strongpassword>               # later: sim encrypts the text with a password and generates a hash, wich you can use on website?
