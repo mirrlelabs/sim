@@ -23,3 +23,15 @@ Future Params:
   -m | --module [jira|opsgenie|git|telegram]  # for the future: maybe we have a number of modules to connect them to other platforms, It seems like a good idea (simple text importer from commandline)
   -e | --email "subject..." [name@domain.tld] # send mail to someone :-) 
 ```
+
+
+## Example Output after import
+
+```
+Title: "text text text"
+Url: https://code.mirrle.com/577c4bba7d6b551b70e76d95accc158c
+Raw: https://code.mirrle.com/577c4bba7d6b551b70e76d95accc158c/raw
+Theme: night
+Lines: 4238
+Language: python
+````
